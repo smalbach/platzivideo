@@ -1,0 +1,3 @@
+npm i express dotenv
+npm i -D nodemon eslint eslint-config-prettier eslint-plugin-prettier prettier
+npx mrn lint-staged
